@@ -17,7 +17,7 @@ Key Features:
 - Customizable characters, weapons, and skins.
 - Engage with friends and other players in different multiplayer modes.
 
-![Wargrounds Mobile]([https://github.com/parthkalla/parthkalla/blob/main/wargrounds_screenshot.png](https://github.com/parthkalla/parthkalla/commit/b9bea7a0006b06aaa9d48444815fe0f2ec0f4300#diff-5e69de77745d204847754e00b42db0609834359296eb6d06a92b8789c092b07b))
+![Wargrounds Mobile]([https://github.com/parthkalla/parthkalla/commit/b9bea7a0006b06aaa9d48444815fe0f2ec0f4300#diff-5e69de77745d204847754e00b42db0609834359296eb6d06a92b8789c092b07b))
 
 ---
 
