@@ -1,83 +1,88 @@
 # Parth Kalla - Unreal Engine Developer
 
-Welcome to the GitHub page of Parth Kalla, an Unreal Engine Developer with a passion for creating engaging, action-packed games and multiplayer experiences.
+Welcome to my GitHub repository! I’m **Parth Kalla**, an Unreal Engine Developer with 1.5 years of hands-on experience in creating dynamic and immersive games. My focus is on multiplayer game systems, advanced gameplay mechanics, and creating captivating experiences. I specialize in Unreal Engine, EOS (Epic Online Services), AWS, and much more.
 
-## About Me
+This repository showcases the work I've done on several exciting game projects, including **Wargrounds Mobile**, **Total Zombies**, and **Idle Food Bar Game**. Feel free to explore, contribute, or get in touch for collaborations!
 
-I am an experienced Unreal Engine developer with over 1.5 years in game development. My expertise includes working with Unreal Engine, multiplayer game systems, EOS (Epic Online Services), AWS, and front-end development. I enjoy creating immersive experiences and continuously strive to push the boundaries of what's possible in game development.
+---
 
-Some of my notable projects include:
+## 🚀 Projects
 
-- **Wargrounds Mobile**: A multiplayer FPS game with EOS integration, set in a dynamic Tokyo-style environment.
-- **Total Zombies**: A wave-based zombie shooter game, providing a thrilling and strategic gameplay experience.
-- **Idle Food Bar Game**: An idle simulation game where you manage a food bar, focusing on resource management and progression.
+### 1. **Wargrounds Mobile**
+A **multiplayer FPS game** set in a stunning Tokyo-style environment, where players battle it out in intense combat across multiple game modes. With **EOS integration**, the game offers smooth multiplayer functionality and immersive gameplay. 
 
-## Projects
+Key Features:
+- Fast-paced first-person shooter with team-based and solo modes.
+- Dynamic Tokyo-style environment with stunning visuals like a blossom tree.
+- Customizable characters, weapons, and skins.
+- Engage with friends and other players in different multiplayer modes.
 
-### Wargrounds Mobile
-A multiplayer first-person shooter with various game modes like team deathmatch. Features EOS integration and a beautiful Tokyo-style environment.
+![Wargrounds Mobile](https://github.com/parthkalla/parthkalla/blob/main/wargrounds_screenshot.png)
 
-- **Technologies**: Unreal Engine, EOS, Multiplayer Systems
-- **Key Features**:
-  - Fast-paced FPS gameplay
-  - Dynamic Tokyo-style environment
-  - Customizable characters
-  - Various game modes
+---
 
-![Wargrounds Mobile](images/Escape_the_zombies (64-bit Development PCD3D_SM6)  02-02-2025 17_49_11.png
-### Total Zombies
-A wave-based shooter game where players fight off waves of zombies. Features multiple weapon options and increasing difficulty.
+### 2. **Total Zombies**
+**Total Zombies** is a **wave-based zombie shooter** where players must eliminate increasing waves of zombies to survive and advance through levels. The game features **strategic gameplay**, different weapon choices, and environments to enhance the survival experience.
 
-- **Technologies**: Unreal Engine, Google AdMob Integration
-- **Key Features**:
-  - Intense wave-based gameplay
-  - Variety of weapons and environments
-  - Progressive difficulty curve
+Key Features:
+- Intense, action-packed waves of zombies that get progressively harder.
+- Multiple weapons and upgrades to help players survive.
+- A variety of environments with different challenges.
+- Challenging and immersive gameplay designed to keep players on their toes.
 
-![Total Zombies](images/totalzombies1.jpg)
+![Total Zombies](https://github.com/parthkalla/parthkalla/blob/main/totalzombies_screenshot.png)
 
-### Idle Food Bar Game
-A relaxing idle simulation game that allows players to manage and upgrade their food bar.
+---
 
-- **Technologies**: Unity
-- **Key Features**:
-  - Upgrade kitchen and menu to attract customers
-  - Passive income system even when the game is not played
-  - Relaxing gameplay experience
+### 3. **Idle Food Bar Game**
+An **idle management simulation** game where you manage a food bar, upgrade your kitchen, expand the menu, and attract more customers to grow your business. The game operates even when you’re not playing, allowing you to earn money passively.
 
-![Idle Food Bar](images/idlefood1.jpg)
+Key Features:
+- Idle gameplay that lets you manage your food bar even when offline.
+- Upgrade your kitchen, unlock recipes, and expand your menu.
+- Manage resources efficiently to meet customer demands.
+- Fun, relaxing experience with a colorful, engaging UI.
 
-## Skills
+![Idle Food Bar Game](https://github.com/parthkalla/parthkalla/blob/main/idlefoodbar_screenshot.png)
 
-- **Unreal Engine & Blueprints**
-- **Multiplayer Systems & EOS**
-- **AWS & Dedicated Servers**
-- **UI/UX for Mobile Games**
-- **Front-end Development (React.js, JavaScript, PHP)**
-- **Firebase**
+---
 
-## Experience
+## 🛠️ Skills
+- **Unreal Engine & Blueprints**: Game development using Unreal Engine, including scripting and gameplay mechanics through Blueprints.
+- **Multiplayer Systems & EOS**: Integration of multiplayer features using **Epic Online Services (EOS)** for seamless matchmaking and session management.
+- **AWS & Dedicated Servers**: Experience in hosting and managing game servers on **AWS**, optimizing performance and scalability.
+- **UI/UX for Mobile Games**: Designing intuitive and engaging user interfaces for mobile games.
+- **Front-end Development**: Building responsive UIs using **React.js**, **JavaScript**, and **PHP**.
+- **Firebase**: Integration with **Firebase** for real-time data storage and management.
 
-### Front-End Developer - Radical Minds
-*Feb 2023 - Mar 2024* | *Work from Home*
+---
 
-- Designed and developed UI components for web applications.
+## 📄 Resume
+You can download my latest **Resume** from the link below:
 
-## Education
+[Download Resume](https://github.com/parthkalla/parthkalla/blob/main/ParthKallaResume.pdf)
 
-- **BCA - Computers** - Icfai University, Jaipur (2022)
-- **12th - RBSE** - Kiran Bal Bharti (2019)
-- **10th - CBSE** - Grade: 5.8 (2016)
+---
 
-## Contact
-
-Feel free to reach out to me for collaborations or any inquiries.
+## 📞 Contact
+Feel free to reach out to me via the following platforms:
 
 - **Email**: [parth.kalla.100@gmail.com](mailto:parth.kalla.100@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parth-kalla-b864a6240)
-- **GitHub**: [Your Projects]([https://github.com/your-github-profile](https://github.com/parthkalla/parthkalla)])
-- **Download Resume**: [Parth Kalla Resume](ParthKallaResume.pdf)
+- **LinkedIn**: [Parth Kalla LinkedIn](https://www.linkedin.com/in/parth-kalla-b864a6240)
+- **GitHub**: [GitHub Profile](https://github.com/parthkalla)
+- **Google Drive**: [Project Files - Google Drive](https://drive.google.com/file/d/1d1NrxTRrM1tx9MRSyASjI7cD8At5hjS8/view?usp=sharing)
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📌 License
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 🚀 Future Plans
+I’m constantly working on improving my skills and pushing the boundaries of game development. Here are some of my goals for the future:
+- Developing more multiplayer game modes and improving server-side mechanics.
+- Exploring AI and machine learning integration in games.
+- Expanding my portfolio with new genres and more complex mechanics.
+
+Thank you for visiting my GitHub! Feel free to explore my repositories and contribute to my projects. Let’s build something amazing together! 🚀
