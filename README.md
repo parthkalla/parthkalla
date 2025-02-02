@@ -24,8 +24,7 @@ A multiplayer first-person shooter with various game modes like team deathmatch.
   - Customizable characters
   - Various game modes
 
-![Wargrounds Mobile](images/wargrounds1.jpg)
-
+![Wargrounds Mobile](images/Escape_the_zombies (64-bit Development PCD3D_SM6)  02-02-2025 17_49_11.png
 ### Total Zombies
 A wave-based shooter game where players fight off waves of zombies. Features multiple weapon options and increasing difficulty.
 
