@@ -75,7 +75,7 @@ Feel free to reach out to me for collaborations or any inquiries.
 
 - **Email**: [parth.kalla.100@gmail.com](mailto:parth.kalla.100@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parth-kalla-b864a6240)
-- **GitHub**: [Your Projects](https://github.com/your-github-profile)
+- **GitHub**: [Your Projects]([https://github.com/your-github-profile](https://github.com/parthkalla/parthkalla))
 - **Download Resume**: [Parth Kalla Resume](ParthKallaResume.pdf)
 
 ## License
